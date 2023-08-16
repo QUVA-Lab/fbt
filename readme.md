@@ -1,6 +1,6 @@
 # Research virus spread and contact tracing
 
-This repo contains accompanying code for the Master Thesis "Feature Based Testing" by Sander Broos.
+This repo contains accompanying code for the Master Thesis "Beyond risk scores" by Sander Broos.
 
 ## Typical usage
 
